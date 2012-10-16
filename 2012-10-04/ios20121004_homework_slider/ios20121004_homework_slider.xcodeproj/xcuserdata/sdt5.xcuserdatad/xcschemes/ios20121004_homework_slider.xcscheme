@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   version = "1.3">
+   <BuildAction>
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForRunning = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "35CC56E46F55E3109EC60A80"
+               BuildableName = "ios20121004_homework_slider.app"
+               BlueprintName = "ios20121004_homework_slider"
+               ReferencedContainer = "container:ios20121004_homework_slider.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <LaunchAction
+      useCustomWorkingDirectory = "NO"
+      buildConfiguration = "Debug">
+      <BuildableProductRunnable>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "35CC56E46F55E3109EC60A80"
+            BuildableName = "ios20121004_homework_slider.app"
+            BlueprintName = "ios20121004_homework_slider"
+            ReferencedContainer = "container:ios20121004_homework_slider.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </LaunchAction>
+</Scheme>
