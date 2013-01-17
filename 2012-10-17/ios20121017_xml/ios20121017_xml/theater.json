@@ -1,0 +1,295 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.5633410,
+               "lng" : 126.9828580
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+         "id" : "10e405b52714de549a8cced29b387accb116f1fa",
+         "name" : "CGV 명동",
+         "reference" : "CnRoAAAAJ1Ott-krF-rhXCNpcO1SFjImtuOVCgtNtQYnL-NzMQmbzQ9YnMYv9rYC1LDCwNUNjPm8BiUuyJeErxIj0_8D01plHdSA5E6SQFJAWzyBoifMxerp-JPWP8em9e_dyeCW6c7CuukxM68VC98IxmDlyxIQC8KkaJwenuy8FseuDknATRoU42cslAdrgJ0XiqqBybKoL-VLN4I",
+         "types" : [ "movie_theater", "establishment" ],
+         "vicinity" : "83-5 Myeongdong 2(i)-ga, Jung-gu, Seoul"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.5689770,
+               "lng" : 126.8976160
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "4941e32b0ab39cd59cda64a9f9f9c6054a3596c2",
+         "name" : "CGV 상암",
+         "reference" : "CnRpAAAAPG9wGzp1ZPlDwlvCAu_K5JLwUWOgBDzYE_lGeGDOnc8SiNY2sMogm3bH0cNqnS-QnuZXo7crhOUw5dCCiEArIoLIcf8lgwbNGkhMIm5e8UihYP3OaV73WOovFW23V2ZjLE2j5Y5PZrLFv_JD7kaSnBIQhJWhRQpNIiEnmRV160ByIhoUcc06WxHWjvmOAtnfcgacPbpBg5s",
+         "types" : [ "establishment" ],
+         "vicinity" : "서울특별시 마포구 성산2동 515-1"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.5338680,
+               "lng" : 126.7344940
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+         "id" : "d51fdbf5c010f1e1d85fe454be9ed017a408374c",
+         "name" : "CGV 계양",
+         "rating" : 4.0,
+         "reference" : "CnRpAAAAmJZGTnF2y9Nw1NxJVC886FXO6O2poqlPQTM_cEsaDLnXP6vx7S-A5fOHvIgw4f1xoZYklw0O87opWXYOe6SQumMIkUCtA23AuOfMG0ZKzqWNWAN7Hk98eqPvVNadWHCP58kKCWWE-5MPYyKQFcjQSxIQUiOgFjFT6-VFgzjFAJCgMhoU5FMVeWSzXnKVR0h5Bneub_27lBQ",
+         "types" : [ "movie_theater", "establishment" ],
+         "vicinity" : "899-1 Jakjeon-dong, Gyeyang-gu, Incheon"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.5170120,
+               "lng" : 126.9025060
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "4dbf2e21e90566b87e7ca884dd94763d917580f7",
+         "name" : "CGV 영등포",
+         "rating" : 3.80,
+         "reference" : "CnRsAAAA3xBlZvcOt9EEFQDVNICvjCyp4KaEhn-XTVOddUrTxrNRlYG-Nnc0HTNfIwUxilPGb3Jdi-vm27LTqssVgFlmKGAPm6Y2GiI5b2ppE2nKmNZWLN_pJO42Qmk_RJG_rjFToCYfyL8MZMFxSLhZfD_L1xIQzkOZTHJS2Mk_Tw3a0AzosRoUDsFACiC8rkLKrfyKD7Lok4u0hi8",
+         "types" : [ "store", "cafe", "food", "establishment" ],
+         "vicinity" : "서울특별시 영등포구 영등포동4가 441-10"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.5301220,
+               "lng" : 126.9651660
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "cb7ce4303707fdabc1bb57880bec84661499e197",
+         "name" : "CGV 용산",
+         "rating" : 4.0,
+         "reference" : "CnRoAAAAqz7o2mT3yzOuFASaYtHTDP58tO06DIBeZSmem0PMPkq-6INAoXYQZ9v7jd9ugOAKtBDD2CMTB4QyTr0m7g1VYPKdMh2miTsXexfjQ4s7jG-SSL538flervCxwTXl20f70RF0nDIew0oLAmo4dcWupBIQjVXzFet38yD9rsFsv1OzPBoUObgX2yyOZP2ZSlgaAcGuBrg46to",
+         "types" : [ "establishment" ],
+         "vicinity" : "서울특별시 용산구 한강로3가 40-999"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.5358180,
+               "lng" : 127.0956810
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+         "id" : "26b320e815a8be33f80643f8b0c2489cfb80d463",
+         "name" : "CGV 강변",
+         "rating" : 2.50,
+         "reference" : "CnRpAAAAlhmTYiTJyNnjFGyDI5jY_QrV62fmAkLWe1OL-KwF2KdbBaCd37qvR0yasiT6GZvLUScu21VyZb_Cs0d0EfMb2yQvdlp7qV7NYxOB_0Z70xudUcqwK-dw1qp-nbha-dwzQyRopsk6Cac_lbOyKsf3FxIQBCS7l_ah_8FGdbJZSGqFORoUHaaly8FdCPkc5w5pwwl-LG2bK4g",
+         "types" : [ "movie_theater", "establishment" ],
+         "vicinity" : "서울특별시 광진구 구의3동 546-4"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.5014580,
+               "lng" : 126.8825360
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+         "id" : "37138f01e7a3b0d09154e8fdb0bb7878a76db42a",
+         "name" : "CGV 구로",
+         "reference" : "CnRpAAAAmwJZDNkb887ffJiNG-hbpuUij95MjlJmpWfRRg8qMFiaCYWX_08PTduRNAHyZ66IbAda3DeeZexwlSgqp4nIBFPCPaa9PS5CEZa-Yppji2dOH8tippdWcUxQwGX8d8XcVQ-u6l-xQXdMNdA05OTzGRIQ65ySP3paCcd9w75wfxe0uxoUnAK9WM5wTWGnUa21y-NsSS9wCoM",
+         "types" : [ "movie_theater", "establishment" ],
+         "vicinity" : "573 Guro 5(o)-dong, Guro-gu, Seoul"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.5065130,
+               "lng" : 126.8903690
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+         "id" : "93c84c041c06628e37605d735025079b3356c8ad",
+         "name" : "CGV 신도림",
+         "reference" : "CnRrAAAA_ilDNyXfb3o5e9JeCvJ2Dp7PuMzyVAFqtsDJGnlatiKipzU1xXPaH5Kfx6K-EIUiA7qEuASpUmZqb-jo1cHKCVxVgPKSq5rTIR4DbHFVnzR2TvIgwFoOEtp2kqFENJyCUJE5KiOg1l4wOkgsX9lv5hIQM8FtecvJD37DiUUvOfoUmBoU4JTh1aCRPhxZsLBTeomTBPMcGq4",
+         "types" : [ "movie_theater", "establishment" ],
+         "vicinity" : "서울특별시 구로구 구로5동 3-25"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.5605370,
+               "lng" : 127.0387420
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "cae35e511756285755159feeffab6497bef6a8e1",
+         "name" : "CGV 왕십리",
+         "rating" : 3.80,
+         "reference" : "CnRrAAAAWu5-4jDQyLtrdtuAZ-sDb_h783s-ePHoJaENRgV1lJ04-szV_SEieQzgVyOAOIBzeRIecho5MKj84G3n1p6kVY8b2dLoD37au5cp_DvW5txrkM5oJAwshpM-jYztSfhCOFeSJtdEWw5JyUTTU-CcURIQzsNiF7KXHovh8VlOZCtELRoUI62340LvGtfmCDGt36rgcLP_rbw",
+         "types" : [ "establishment" ],
+         "vicinity" : "서울특별시 성동구 행당1동 168-1"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.3930,
+               "lng" : 126.9622810
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "89e3892e5eade300cf768e0195ab35d4ea69d70c",
+         "name" : "CGV 평촌",
+         "reference" : "CnRoAAAA4u6pVhM5JX7s8g8FZ24vWlNFPzRrkAVTw70AcFfGCfLSObJwsW_6VSwmOmjM6IuCoMHcuCadjWPGPx-ynfke7ZQVBZMv0XS6X4us3SqqDrIGbSI5O8jAmW4Md6uBgu_i1HTvGsnC1dhYY0qfBBpZfxIQz3NBtDvFUzR4acgOY7_W3RoUQYkOX0ZuJJgF2DNYj3psz1ztz4g",
+         "types" : [ "establishment" ],
+         "vicinity" : "안양시 동안구 부림동 1606"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.526260,
+               "lng" : 126.8750080
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "77bdc6b596b8ce739f58446cb1704ba3f86a08fd",
+         "name" : "CGV 목동",
+         "reference" : "CnRoAAAAhhBM16hbHbYou3VBeZPAoLfcW0U4bPsK5gmP28O67WIkIJ6idZS9QR-zvgi3EPR4wfiNUPw4hjJyGzEUaPrOTbNB5-5ckLyWQS9lLCZm6QAclfONQHfbpoc5_L6nOa1hTQzYgcxX4Ij6dc9Ivox4GRIQrkELrmIpP2W0ENN9Ipy32RoUhzsjcfCbwKJir5Da8vljnGKUPfQ",
+         "types" : [ "establishment" ],
+         "vicinity" : "서울특별시 양천구 목동 916"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.5045380,
+               "lng" : 126.7604370
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+         "id" : "f1c9af7d03f37aa7e2f4fad578d710cd13a6e650",
+         "name" : "CGV 부천",
+         "rating" : 4.20,
+         "reference" : "CnRpAAAALpMTYZsarOMItjjuQWlXMqUQU4hYq9sUvFQN3kxQ3FC22ZheMThUHRpu_wy99q-GzG-SWRLcyiJBaR9Uiedvbx1KGm5ySYXxk0itAEp2vMs4TaMxYb4CEItZ6T0zppf3aaJDMfRNWhA4g47mPRvXHhIQXHX_DYNXyjzxkdTdzuxnsRoUiDkTvrhq4KU1nOGScFCfmG6g2yI",
+         "types" : [ "movie_theater", "establishment" ],
+         "vicinity" : "1164 Jung-dong, Wonmi-gu, Bucheon-si"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.3130910,
+               "lng" : 126.8309350
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+         "id" : "04288f44a357a0ae0d62f6a630ccf285a92c2002",
+         "name" : "CGV 안산",
+         "rating" : 3.0,
+         "reference" : "CnRpAAAATFK_qYlC-6lCKyB_fMtm601zIVytbc6m4y66c3BBHLn_ob-tKk9E7yyXmg0d7EfsxbaaIbV8NyaNYvprYqmp_ul6SJdfCdgmPSXmjAS2qLq-FBfy4AtAiz8DqEqfVK1mXuolqaColCzvj3yS5uQw4BIQx_IgrXQGudBOoGYXNGhZlBoUEeBm0WuiVgJGUWI2GZIMF0OSOwA",
+         "types" : [ "movie_theater", "establishment" ],
+         "vicinity" : "안산시 단원구 고잔동 725-1"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.5245130,
+               "lng" : 127.0288550
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+         "id" : "f7d2abb1743eb703d7bb620594c74c23d9d23d43",
+         "name" : "CGV 압구정본관",
+         "reference" : "CoQBcgAAAGEtJ_ENtOjqvSDVGGEbXOamOf6loyEh0FsGjlts2aaJ9vvtGiP5zHgTw53opHK8g35JJ9VUMLMxEajV6U7auxfi04el8vMsJ-qDi0uMgmZZ6sue6o2aXkpGlofiELo1jaFn7_RzQnkwe9E8mnOcIjyxPzT--0YV1uFNQwXbblMsEhA5hLoMK9HjhOZDu5BQ4n9PGhQCn7cp9Nx1r9Lbt_jkaEYAeFegiw",
+         "types" : [ "movie_theater", "establishment" ],
+         "vicinity" : "서울특별시 강남구 신사동 603-2"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.3996380,
+               "lng" : 126.920230
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "87bdeece6c5acbb807805b8ec029871ec72ad57d",
+         "name" : "CGV 안양",
+         "reference" : "CnRoAAAAyZ5MMOi-fI3h4NyCm_vPRSJ1PHXbpv4GPr9UaycHOZjHQFSdCrhF_yaDHAEH91qy5P3JNcPX6ouvnjWB1zMpUbXB05U7GoYYGu6XHtl3n9NyCufHCARbUhISSSACIYebCfNLW_vXHkQdJmW1MN9-eRIQ7rR2qDMe3A_ZehRKQ4nq6BoUTJByaXz43LNZtISWMz0FZ9UlqZ8",
+         "types" : [ "establishment" ],
+         "vicinity" : "안양시 만안구 안양동 676-1"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.5834220,
+               "lng" : 126.9998280
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "c1f057f97a23d09dc1d2e200e7c01b8f3d723b18",
+         "name" : "CGV 대학로",
+         "reference" : "CnRsAAAAfX748gM9jjH9g56Lc9nATiPdg_pY3nCH3SpojiILjJ8hhVkoWXX0yoijqmbHZZfSAfuCIQFAXgVGz6siUnYH9LjCSOt1hNEMqVYckhITQCklZeNgPwt7F1rC_eYNSvwZOQjsZC8Zuj_S21H67VpOGhIQCgiinDLu4lma6WE4IS_KrhoUP5C8rUq1-DmZphsbPf_f6vbrpMs",
+         "types" : [ "establishment" ],
+         "vicinity" : "서울특별시 종로구 명륜2가 41-9"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.592560,
+               "lng" : 127.0170480
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "b7e9ca3fdcb8b523e18fb70d34912474b725487f",
+         "name" : "CGV 성신여대입구",
+         "rating" : 4.0,
+         "reference" : "CoQBdQAAAPSMO8-hHzC32lVEbv4tOOiSpdVlWluQrcackH4aDsAsnhcmul1y2cGTmd5_5jYijHiS_m-vhzCDTgAu4RJU35Bxun-DmMhuxqWamVEeXCLuPfLv7RL-y4VKqEbjSrUbx3kKAXd8ah-Eiva3XS7t_9pLAnU_LgEAElJlqdNY13JjEhCqDcZ7EP-MGnFf-NchjCKnGhTvikZSn38MMsLrTxrQ6hEfCw1bXA",
+         "types" : [ "establishment" ],
+         "vicinity" : "서울특별시 성북구 동선동1가 1-2"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.5284310,
+               "lng" : 127.1253170
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "293aea42dca5f8771a460b74494317d6ed7f54ef",
+         "name" : "CGV 강동",
+         "reference" : "CnRpAAAAvMr_ufcwuMrnU7v27B4O9tDM0eqYiT4wmmtp919FNmbyrWWsPZQdPLBSOmi1o_qOSUPn2fdZ_kDNl5ZHkXgaWMqV0bU8v5YwS57D6WgUu15Q336ikw4HAOaOcm9B7Z9KmAYmTTsXgh8SkXOVv8elVRIQ5HqvQpIY2Q6nKgvf6LlQbRoU9AZYjjYwafmKTp6Ecx_-k4cngYQ",
+         "types" : [ "establishment" ],
+         "vicinity" : "서울특별시 강동구 성내동 549-1"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.6120580,
+               "lng" : 127.0307410
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "c56b049aa144f6dc9dd2c3ceec1fadc3d46443c4",
+         "name" : "CGV 미아",
+         "rating" : 3.80,
+         "reference" : "CnRpAAAACTRdWmx1lLFDokb_BSlmvFXP4SeVgt1f5V2TLnnsudQIvmiUOqespkl9zrmX_4lChnbTOl4heH4LMDuF8FB7BChvM27BgBDSaa_c9cAlnSFgzHiK4QQ89QsyJBRKMJWial0BZfEAwk5NPaTGfRyuuxIQhxyESKcyRK9gBY1IzaXiqhoUpAV7piT3lVbR8k_Okk09ynmxOiM",
+         "types" : [ "establishment" ],
+         "vicinity" : "서울특별시 강북구 송중동 35-4"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.3405090,
+               "lng" : 127.1069080
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "7e480edfd993e4988172ca39afc352e4c25dee4a",
+         "name" : "CGV 오리",
+         "reference" : "CnRpAAAAoqKjgUW-nkRLbRu8ppDplrVrND-x9p3_3VQeUibzdppmfiHYHyBdzYk8R414Nh4pcGA2aMBM9dwDwZVNG6yhThr7EOSlFutGPIeuAQSXRW2ino5S93Jd-FjFtJ2VvvTseRHtnYioe55y6U0U344BchIQPAR1BEcM5xoQcLZlyYHB8xoUtaAisV6tg5-FXNfk_m4JwR0iQy0",
+         "types" : [ "establishment" ],
+         "vicinity" : "성남시 분당구 구미동 159"
+      }
+   ],
+   "status" : "OK"
+}

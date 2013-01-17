@@ -1,0 +1,296 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.5159560,
+               "lng" : 126.9074220
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "0692e45b60041cf0e5289abb9dfb52e9a77dd698",
+         "name" : "롯데백화점 영등포점",
+         "rating" : 4.20,
+         "reference" : "CoQBeQAAACarKGR3JqmG-gFUdHzkzs4hrbUA1Qki3Mg0dFlosZd4LO-aNSV9oUexgaTZ_AMcbOV9F0NxukieRdiTcgulgwUHCBCIiNyPYcozqfgMAJtkZL4tU8y-w5JJH1gJZ3obwKFnFgdO_6zqUcxmd42EXcHzpEMdUSO2vMzGpVGiSV5uEhCR_SSTVjMOFnwZLqhXMEqdGhRRQ4BgPwRx3RRRtfQid16n9aifRQ",
+         "types" : [ "department_store", "store", "establishment" ],
+         "vicinity" : "서울특별시 영등포구 영등포동 618-496"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.4904880,
+               "lng" : 126.9250050
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "8cdf43f12893c7efe8f816e4b901bcf26f73549f",
+         "name" : "롯데백화점 관악점",
+         "rating" : 3.80,
+         "reference" : "CoQBdwAAAEysnL5BekeCTvP-33Br7HF2VbJINUeVHbN6NvBtNk29KECzKYER95cQfJpFSJG3IkZQdNLGF3y0sa0i0EGLk8-IGxLpoWhxU4sYQsNRPwYA-QJmPssNaysPQr2edNuRPgO36b_4P9_SJ1sS7nzzcz77zznMKggDo1NvjHWA38G2EhDJ8FqVe8wQlhFk38yBRIagGhSi6ntZLjyKa5BuA29FZlA3JZsf6A",
+         "types" : [ "department_store", "store", "establishment" ],
+         "vicinity" : "서울특별시 관악구 봉천동 729-22"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.4969610,
+               "lng" : 127.053270
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "87004db55935eb0eb6929e6c1ec8d08079e43660",
+         "name" : "롯데백화점 강남점",
+         "reference" : "CoQBdwAAAGyiVW0zj0Pg2Md7BAXtb1nmRnHp1XdnQMeZp6IbXO1USr5AK6YXbp5Ma-ethPcaKRr5t70yxUmBHWOVmfuNjhzBv7dm9OsfTlPuWsShuAPyV5ClXmqjNdYYxpyLnB9TKX-80RIJUVi92MPUzZCPK5kCUTnbcsnAPM2CGhaqZ_ZmEhAvFdXGsxCF5pOrWxGWx4wuGhSsEf8aC0MoSzlTF0d64duf3c1i8Q",
+         "types" : [ "department_store", "store", "establishment" ],
+         "vicinity" : "서울특별시 강남구 대치동 937"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.4020820,
+               "lng" : 126.922230
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "1d507ee9751316061b18b1eb964779d534a9706f",
+         "name" : "롯데백화점 안양점",
+         "reference" : "CoQBdgAAABvxOtQvMSI5BTrxaUKdcJZ-TXg0PRpc5L0Gm6J53vrc5vmVVdQSNX1HhCXP0tpIGrTKyFNnVkI4keBsFMZsEwgmXd-ap3om4wPefTzpws_YZUsidQvUUFv7Vpm88pvCUh8HwXhthdh9DE8ElEctTzK8Y7XRlGHu-RYif34Dh9w2EhDsTVafTE33zfo-fVw6_oSQGhQD7484IQO0ANJQleLdFLUgI52CUg",
+         "types" : [ "department_store", "store", "establishment" ],
+         "vicinity" : "안양시 만안구 안양1동 88-1"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.5268140,
+               "lng" : 126.8750210
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "a5a9e199562433815fc316fecc0708ae8c5a035c",
+         "name" : "현대백화점 목동점",
+         "reference" : "CoQBdwAAALfDPoY_FMy4lk6Z77e0q8YUCAPblVTBMhcnSyolaCRCjtyN5uUL21Hmp6KVMmAzxZHUH7VqfpEVHFr4j_BWBArAIOxJS8OZNDv2p3m6Fo7UCVPrGhHcGTX_M-mVcL7bJ_yr2gJMW9UuaDXKhL4W9OccWonwXQieW2QdvvvFTRJdEhAhLLa1idBCoSUl6toajauUGhSQivFAhu_zqRU4npR4kC-sSD6V4A",
+         "types" : [ "department_store", "store", "establishment" ],
+         "vicinity" : "서울특별시 양천구 목1동 916"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.5085430,
+               "lng" : 127.0597690
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "8d2c162807c1750604a7014b0d57247b62327e89",
+         "name" : "현대백화점 무역센터점",
+         "rating" : 3.30,
+         "reference" : "CoQBfQAAAO1t5v-nER3DpdCN6Qq_C4kBmBsz85azSIFmOjJgMYiXFeX8qwxSaHL6JMgXKl_2_dOlBke4SC_8PhyBx3hDXJJgy83-aoag9Cbyy66wLpv0uHI4JfDDmsiTzAygLls86DPxTYrdEKhNUQiHd2ObqkNnr8AY9mKFdUyQzEWE2wloEhC9yJsJVmSOHHt42lKPzzQdGhQKEqwVaB_a36T21F09fZQ9HULNAg",
+         "types" : [ "department_store", "store", "establishment" ],
+         "vicinity" : "서울특별시 강남구 테헤란로 517 (삼성동)"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.5050980,
+               "lng" : 127.0041630
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "02ce3b9f7f732a0dd09769160d2f0c0d5be68898",
+         "name" : "신세계백화점 강남점",
+         "reference" : "CoQBegAAAEKAGwqLPJgWCJb0yQTBfecT97q-_pypY4uKclnx0tawBWI0XAxZPFddVbATKTXithnLj8ZiK9G-Oec4QOFpZMhuxizW0HCCDlrywExG9ZWUF-rD7kj47g8w3-tCf02i6K1wTJVWWAdILtV0b5PjihQ_jvPgeybml-Tebx8nqk1yEhAYCFIrjdhiuq1n32ulwBMRGhRLnluTzdR7uFAoQGsyCVP6D2AXdA",
+         "types" : [ "department_store", "store", "establishment" ],
+         "vicinity" : "서울특별시 서초구 신반포로 176 (반포동)"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.527930,
+               "lng" : 127.0416590
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "7a3912b7f88cb6d6298f470276140bd48504052c",
+         "name" : "명보갤러리아시계점",
+         "rating" : 2.60,
+         "reference" : "CoQBeQAAAGms4J30aBUeLIxUil_WqSOKwIi0p52xDFnv0u98Hq_msvCEa-u4ONcLmVYVu7mO36DY1hf0gQiJHs8tCQ4zMHhAz5foIA7VM1Kr-PjK5OK02quoNl6Oet2Ps7VcSdpuGHzJ2GhLkYothGj3e1XGEe6WnogUsrNsKQa34lgNiFI8EhAEY9C6scnR-QNBP-Xv6Wu_GhQjdHnacUMTKZmVu9J2JmUyXfBMUQ",
+         "types" : [ "department_store", "store", "establishment" ],
+         "vicinity" : "서울특별시 강남구 압구정동 515"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.5560910,
+               "lng" : 126.9358630
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "a6e1db4a0cc2f943864f260e81a1cb11e0876cb3",
+         "name" : "현대백화점 신촌점",
+         "rating" : 2.80,
+         "reference" : "CoQBdwAAANXYN76lklgpUpqNbJvd8ocrQFyPWzlYKYDnwgakhfQ1GwjZnpTJ4Xr1NJ4JmZHNArELAy9aU6teH2Oo4rGtUzxMQmHYLYzMJz5abF2VdLPN8pvmceAYo1Fp7iONDN70kUsyx95pE9dKomf5PjSXzo26wxpiqIc8Z5EcXZ728ADwEhDsjya00NmX8WMHLjpfSodzGhTjM885ivBr4WjRuJAMQ3gH7j-vTg",
+         "types" : [ "department_store", "store", "establishment" ],
+         "vicinity" : "서울특별시 서대문구 창천동 30-33"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.5647570,
+               "lng" : 126.9810530
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "db321bb9bcb934585df9b55a544b4e9ad3752df2",
+         "name" : "롯데백화점 본점",
+         "reference" : "CoQBdAAAAFBWJCNPQzusQoPn8wI1MyIEWQHQwEH-rXyunKCtwwQqcnzhF78mvddhewbtSTGgUWB64MPQAcdD9eyECDwR_iJlnbKB9gYqL6VuJqC15xJd8CX03LF4GEERJIxQvckpI3jshAyjdQc--ChwKNnf_e_ZwR-Kp748uTY1YXqZlecxEhDRKXikVL8rQO3664EpK45ZGhQFRd6XBa8YeBBEL9U7M_ZAlnPc_Q",
+         "types" : [ "establishment" ],
+         "vicinity" : "서울특별시 중구 소공동 1"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.5273460,
+               "lng" : 127.0273550
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "4666478a6de8c4f3b61ff77098c5d4b5c60d4a24",
+         "name" : "현대백화점본점",
+         "rating" : 4.50,
+         "reference" : "CoQBcwAAAAk19m-pzKkKmEPCzxWd5S0Q33rZ_WETrqxZ1i8AFEEk2iJDtSWW0__wI2k_3yGqfBr_InJpkGpV9lMRU2kqH63n0QFcrRLkfrv2vZHLoYHfDuhjbIcrdf_J_T4m8sGjwr0sWcjRuV4tMEogcJPqA1k8VieqEYDIPRUL8SLYJ5EtEhDH1G3iID5-8y6besvb3ERkGhTMr94v_cRr3iglE5ALted1c39Amw",
+         "types" : [ "department_store", "store", "establishment" ],
+         "vicinity" : "서울특별시 강남구 압구정동 429"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.5042890,
+               "lng" : 126.7619920
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "3ef4262a5a0fa05e202911e98b011ae93a413cc7",
+         "name" : "현대백화점 중동점",
+         "rating" : 3.70,
+         "reference" : "CoQBdwAAAE4EsbE9HNWzYENAfkqNm0pjwZuF4NU1LwO_rVgFwLYoFbrVkc5isATS7H-n7jQLUgJyaNcS6cdj7HAvNhr9SmceelZr4kjxIvoXgjGoqYlMC9OB0FCReg6HYmaTHeNlTiXmLMRk5iOBfzT-bNuHZjhOK8jdno75l0IgvU-adZ-6EhBLfNdRrq0sp3q6SyZLI0eOGhT2s7reHCK_rljBKeAoIAQ0Cg9GPg",
+         "types" : [ "department_store", "store", "establishment" ],
+         "vicinity" : "부천시 원미구 중1동 1164"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.512210,
+               "lng" : 127.0994590
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "a1f9f24adbb4b25b076bdc3e22f08a991b23b1f1",
+         "name" : "롯데백화점 잠실점",
+         "reference" : "CoQBdgAAAH-WEUDqYUoOB4ocjE5GpjiqHG1T5UhAfoK5zkc1c2CefRZnyVeFMdiaKP-iJiTeLToMWadk-pH3_Ww-XrUZD7a8L_MKCiNNqhoPz5wKqG3Bphwcay4TcqIvnxiodPXtJryAYf6Q8z52AUUCw9KX8QB8ZF2N9UTG-vfL7cXW_LayEhDYe6BgLFmk9jBzjCjPk29qGhQ4C0Xc51K8AHVBHOxJqk9mfs4diQ",
+         "types" : [ "department_store", "store", "establishment" ],
+         "vicinity" : "서울특별시 송파구 잠실동 40-1"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.5171510,
+               "lng" : 126.9056170
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "559353733fa5de22f358f347c0742a86fdc9dd65",
+         "name" : "신세계백화점 영등포점",
+         "reference" : "CoQBfAAAAGTeCiMbTL2MSW_snF7uxi1JgAh9xs4sTwuWJP8qiHkhir2dtphX9ttJbNcW8y1G1doCN2qC00X9R0aZ7xGKNTMBPwcMyi7wnzrSIkcYQGWt3ZMop10qKDXZiixx1kxfVbLeMPN7Ed0Up65w4drFF-IVjGnNhdSrDTjiwPSPPPYNEhAreJFQxilZF8BI-hok9_9-GhTw9ULw2olsicmEnGCOrk5nBwnoJg",
+         "types" : [ "department_store", "store", "establishment" ],
+         "vicinity" : "서울특별시 영등포구 영등포동4가 434-5"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.4425170,
+               "lng" : 126.7013060
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "43264168a7a458c7d1c0d7e21f58a2fbda54274a",
+         "name" : "신세계백화점 인천점",
+         "rating" : 4.30,
+         "reference" : "CoQBegAAANjjB613Ekmf7MulbZuRdpbE-tfaOD8fjbHKnGh690_ug6_TgphZD2PDRpowzWqZU7wJ-AB6JgOotY8r4unNglIy18zBhZ-UxiELMr8xTtuJhIbw3Sa4ZUQSyPuQBogxPvVJ_BeTVTbRJ8mjJmLGr8w6JsGJVJ30bxsZzEjGuQkYEhArj8aYsjaUyCn_4oDGYkL-GhT8sMLCH5E24EBPcYqDlJoMV6ffgw",
+         "types" : [ "department_store", "store", "establishment" ],
+         "vicinity" : "인천광역시 남구 관교동 15"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.486850,
+               "lng" : 126.9816660
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "28ea2a48351f4ef09597f1d5064ce1b21a91e4bf",
+         "name" : "태평백화점",
+         "reference" : "CnRsAAAAGx713Shf1thiJXKti24WlBRRYe9zykHO4ufJnVDcUhGExO3Sus4qR5PH9IWMMjSM2qxFTfXLCzTft5vCD5qangvkTzbkGNaNvV_H6EyOYdK9iNbC8TAXXWzBSlI9OQhkd5eFxDwTmgAMnR5U2fTDPBIQ-Z9GgTQfdluTfCoMEvON1BoUA_MU96ga3Nbe8-W-EpPTZKl7zXk",
+         "types" : [ "department_store", "store", "establishment" ],
+         "vicinity" : "서울특별시 동작구 사당2동 136-1"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.538850,
+               "lng" : 127.1244630
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "090d9c2c3b3201c1b073e5468e735b34d38cf85b",
+         "name" : "현대백화점 천호점",
+         "rating" : 4.50,
+         "reference" : "CoQBdgAAAJ8BEHbVtT1r8Wd8WRQCpMjFJP4cOwnIb7qZRXEDRHg9DeXlZ0z3dZJiCCGG5q0e_kLk8ZS04Z4KEVTCp3mPGk8u-tHUaafdd6WLGpAzyZsRZfhUZ28UaFAcgCDZUemwHWvelFPfdXiJ0hlSPBUIi9cuDYGhg3huObhqPZz4-iwoEhCQOXp5HTalT7HpB2m_LTc_GhQvpY7KURlm1d6Ua33ZuJIb1yK2Ag",
+         "types" : [ "parking", "department_store", "store", "establishment" ],
+         "vicinity" : "서울특별시 강동구 천호2동 455-8"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.4934840,
+               "lng" : 126.7195250
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "8b10b96d35bd4c6a909465956be3d302d4f1fe34",
+         "name" : "롯데백화점 부평점",
+         "reference" : "CoQBdgAAAI2MtH8hr30_47YcnbgjpE-ikY2Z4NPZngJwxOkLPFQqVW7K3Sh43osGO8IrH4uCxh6k8ORaIngkYUQ9guulEWbD8hzwSuagpGBPDpWYBphikKaSEzsWEfU3xn-cm62VfCsvDjuDbJex2FwmcKUfY1Hrb2-62mhAJU0CVKkDIaiYEhBsXrFxcTCC0RrNMTsE2Au0GhQs3twW-RNtwMNCSZPtd-MkJXTo_A",
+         "types" : [ "department_store", "store", "establishment" ],
+         "vicinity" : "인천광역시 부평구 부평동 70-127"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.6083920,
+               "lng" : 127.0287410
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "1d276d96343ef70101c607e51cdc9ea21d5c82c9",
+         "name" : "현대백화점미아점",
+         "rating" : 4.30,
+         "reference" : "CoQBdgAAAKXL01cccHtmJrq8xi9AN_ErltzHUDES2VmtsuKw1mBsA-fcL_imcjBfgRtAc8QgomfHiXAJWbi2RDLS5k5iZtyu19y6uV0BAVwWE-UM8F1GTjdX565OKUMFl9oy75tURWrJY_AzjfsUndu_qHDYG-U5GYYUvbLoWVFr2ORtWjVHEhCdRr2N3qgEJN7DjIPlkik2GhRVRjn8SKvt2E2zoIp8cRRuknCaIQ",
+         "types" : [ "department_store", "store", "establishment" ],
+         "vicinity" : "서울특별시 성북구 길음2동 509-2"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.4470170,
+               "lng" : 126.7015550
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "a3c53986e6ae41de13b0722277395d5c3cf6627b",
+         "name" : "롯데백화점 인천점",
+         "reference" : "CoQBdgAAAFcUmxWVmtle1ZlQqPHw9GLQAuq4TPlRdcrK4baS4Fk4VgBvFwj1bPwdhngNlyg65DFBNRwZAf4EGyfuWpUOiR9ZxLVW2UbgqkcaRnQ09KnDRuqvFJk3cUcsjcefl9FZ57osQiSxYt0SBm6iGwTSk-j8-MDa10RprlT-G0RnSKnjEhBd1cHMJp9baEHf_-Eqj7NNGhQz2q9CZNB1YPxU2OOtuhfJu5Mm_A",
+         "types" : [ "department_store", "store", "establishment" ],
+         "vicinity" : "인천광역시 남동구 구월1동 1455"
+      }
+   ],
+   "status" : "OK"
+}

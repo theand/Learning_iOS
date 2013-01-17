@@ -1,0 +1,310 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		35CC51A38F6269450517A90A /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 35CC51E83E5417CB7781AC02 /* MainStoryboard.storyboard */; };
+		35CC521D39019E7F958C2C4A /* restaurant.json in Resources */ = {isa = PBXBuildFile; fileRef = 35CC552DE8CBB19DCA84F5E4 /* restaurant.json */; };
+		35CC52561F2104A3D3934590 /* MovieCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 35CC560F0B927324AF6D3BB1 /* MovieCell.m */; };
+		35CC53FABFA20C3FD156F712 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 35CC50DE2A643BB5E14C39A7 /* Foundation.framework */; };
+		35CC5414AE04C2ECA5B9E1AD /* theater.json in Resources */ = {isa = PBXBuildFile; fileRef = 35CC5BA0B08CF4FF2D4175E0 /* theater.json */; };
+		35CC5421B16F6574C04A4820 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 35CC555E5FF92045CC927F7B /* UIKit.framework */; };
+		35CC565E803F1E6B452F0229 /* movie.json in Resources */ = {isa = PBXBuildFile; fileRef = 35CC52B9179B9E62B2356342 /* movie.json */; };
+		35CC58AD34FB0FCDF7FA071E /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 35CC5F72BA9FEA8C94FCA0BB /* InfoPlist.strings */; };
+		35CC58F0DDE65F37E3D69910 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 35CC523EF5B32204EDDE4249 /* CoreGraphics.framework */; };
+		35CC598C1787AA4B3D2C0DFB /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 35CC5EE27EA47A01B2A10CC2 /* AppDelegate.m */; };
+		35CC59AA1DC42859383CCB8D /* movies.xml in Resources */ = {isa = PBXBuildFile; fileRef = 35CC52443CD12188DCB7FD85 /* movies.xml */; };
+		35CC5A0FFC091594B8A427A6 /* shopping.json in Resources */ = {isa = PBXBuildFile; fileRef = 35CC53810B7106429F399E0B /* shopping.json */; };
+		35CC5CF3D82D89680F9676CD /* Movie.m in Sources */ = {isa = PBXBuildFile; fileRef = 35CC501D715A3099E13313F5 /* Movie.m */; };
+		35CC5D0F7046A4448EA90E0B /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 35CC53E83526FD9E4BEB8732 /* main.m */; };
+		35CC5D94CA7BDF37F54B63E2 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 35CC591BB8AB52CA70BF0093 /* ViewController.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		35CC501D715A3099E13313F5 /* Movie.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Movie.m; sourceTree = "<group>"; };
+		35CC50DE2A643BB5E14C39A7 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		35CC523EF5B32204EDDE4249 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		35CC52443CD12188DCB7FD85 /* movies.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = movies.xml; sourceTree = "<group>"; };
+		35CC526AA3A2AF68B5FCF964 /* ios20121017_xml-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.info; path = "ios20121017_xml-Info.plist"; sourceTree = "<group>"; };
+		35CC52B9179B9E62B2356342 /* movie.json */ = {isa = PBXFileReference; lastKnownFileType = file.json; path = movie.json; sourceTree = "<group>"; };
+		35CC53810B7106429F399E0B /* shopping.json */ = {isa = PBXFileReference; lastKnownFileType = file.json; path = shopping.json; sourceTree = "<group>"; };
+		35CC53E83526FD9E4BEB8732 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		35CC54D02F1F14167C1A9AB3 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
+		35CC5506F1F8FE98F90D37ED /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		35CC552DE8CBB19DCA84F5E4 /* restaurant.json */ = {isa = PBXFileReference; lastKnownFileType = file.json; path = restaurant.json; sourceTree = "<group>"; };
+		35CC555E5FF92045CC927F7B /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		35CC560F0B927324AF6D3BB1 /* MovieCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MovieCell.m; sourceTree = "<group>"; };
+		35CC57340A2EA54DF022B223 /* ios20121017_xml-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "ios20121017_xml-Prefix.pch"; sourceTree = "<group>"; };
+		35CC591BB8AB52CA70BF0093 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		35CC5B58F00A78A126BD3336 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		35CC5BA0B08CF4FF2D4175E0 /* theater.json */ = {isa = PBXFileReference; lastKnownFileType = file.json; path = theater.json; sourceTree = "<group>"; };
+		35CC5CA8F290B313223C7047 /* MovieCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MovieCell.h; sourceTree = "<group>"; };
+		35CC5EDB6BF16820D0F3546F /* ios20121017_xml.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ios20121017_xml.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		35CC5EE27EA47A01B2A10CC2 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		35CC5EF9BFE2E40582FCE4D9 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		35CC5FF5F83493B14817F4AB /* Movie.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Movie.h; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		35CC59A47C1C649B4987C335 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				35CC5421B16F6574C04A4820 /* UIKit.framework in Frameworks */,
+				35CC53FABFA20C3FD156F712 /* Foundation.framework in Frameworks */,
+				35CC58F0DDE65F37E3D69910 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		35CC5232A2282B41EADC5762 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				35CC526AA3A2AF68B5FCF964 /* ios20121017_xml-Info.plist */,
+				35CC5F72BA9FEA8C94FCA0BB /* InfoPlist.strings */,
+				35CC53E83526FD9E4BEB8732 /* main.m */,
+				35CC57340A2EA54DF022B223 /* ios20121017_xml-Prefix.pch */,
+				35CC52B9179B9E62B2356342 /* movie.json */,
+				35CC52443CD12188DCB7FD85 /* movies.xml */,
+				35CC552DE8CBB19DCA84F5E4 /* restaurant.json */,
+				35CC53810B7106429F399E0B /* shopping.json */,
+				35CC5BA0B08CF4FF2D4175E0 /* theater.json */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		35CC5256FFC81BD6D7F7D5D3 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				35CC555E5FF92045CC927F7B /* UIKit.framework */,
+				35CC50DE2A643BB5E14C39A7 /* Foundation.framework */,
+				35CC523EF5B32204EDDE4249 /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		35CC5CD5D8B3B07FFE521ECB = {
+			isa = PBXGroup;
+			children = (
+				35CC5F72764EFADF9C40E8CA /* Products */,
+				35CC5256FFC81BD6D7F7D5D3 /* Frameworks */,
+				35CC5F46829CCAFA4F76A849 /* ios20121017_xml */,
+			);
+			sourceTree = "<group>";
+		};
+		35CC5F46829CCAFA4F76A849 /* ios20121017_xml */ = {
+			isa = PBXGroup;
+			children = (
+				35CC5232A2282B41EADC5762 /* Supporting Files */,
+				35CC5506F1F8FE98F90D37ED /* AppDelegate.h */,
+				35CC5EE27EA47A01B2A10CC2 /* AppDelegate.m */,
+				35CC51E83E5417CB7781AC02 /* MainStoryboard.storyboard */,
+				35CC5B58F00A78A126BD3336 /* ViewController.h */,
+				35CC591BB8AB52CA70BF0093 /* ViewController.m */,
+				35CC501D715A3099E13313F5 /* Movie.m */,
+				35CC5FF5F83493B14817F4AB /* Movie.h */,
+				35CC5CA8F290B313223C7047 /* MovieCell.h */,
+				35CC560F0B927324AF6D3BB1 /* MovieCell.m */,
+			);
+			path = ios20121017_xml;
+			sourceTree = "<group>";
+		};
+		35CC5F72764EFADF9C40E8CA /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				35CC5EDB6BF16820D0F3546F /* ios20121017_xml.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		35CC59A5505654027CC500E3 /* ios20121017_xml */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 35CC51D192603233E660CEDC /* Build configuration list for PBXNativeTarget "ios20121017_xml" */;
+			buildPhases = (
+				35CC5128039B3D73BDE67937 /* Sources */,
+				35CC59A47C1C649B4987C335 /* Frameworks */,
+				35CC5029E71FFDD82E639AA0 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = ios20121017_xml;
+			productName = ios20121017_xml;
+			productReference = 35CC5EDB6BF16820D0F3546F /* ios20121017_xml.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		35CC57AAE1A2B8CC202EC775 /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = 35CC5F23EC1D5A599295909A /* Build configuration list for PBXProject "ios20121017_xml" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 35CC5CD5D8B3B07FFE521ECB;
+			productRefGroup = 35CC5F72764EFADF9C40E8CA /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				35CC59A5505654027CC500E3 /* ios20121017_xml */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		35CC5029E71FFDD82E639AA0 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				35CC58AD34FB0FCDF7FA071E /* InfoPlist.strings in Resources */,
+				35CC51A38F6269450517A90A /* MainStoryboard.storyboard in Resources */,
+				35CC565E803F1E6B452F0229 /* movie.json in Resources */,
+				35CC59AA1DC42859383CCB8D /* movies.xml in Resources */,
+				35CC521D39019E7F958C2C4A /* restaurant.json in Resources */,
+				35CC5A0FFC091594B8A427A6 /* shopping.json in Resources */,
+				35CC5414AE04C2ECA5B9E1AD /* theater.json in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		35CC5128039B3D73BDE67937 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				35CC5D0F7046A4448EA90E0B /* main.m in Sources */,
+				35CC598C1787AA4B3D2C0DFB /* AppDelegate.m in Sources */,
+				35CC5D94CA7BDF37F54B63E2 /* ViewController.m in Sources */,
+				35CC5CF3D82D89680F9676CD /* Movie.m in Sources */,
+				35CC52561F2104A3D3934590 /* MovieCell.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		35CC51E83E5417CB7781AC02 /* MainStoryboard.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				35CC54D02F1F14167C1A9AB3 /* en */,
+			);
+			name = MainStoryboard.storyboard;
+			sourceTree = "<group>";
+		};
+		35CC5F72BA9FEA8C94FCA0BB /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				35CC5EF9BFE2E40582FCE4D9 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		35CC505A9C9DA9502BFC3A89 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "ios20121017_xml/ios20121017_xml-Prefix.pch";
+				INFOPLIST_FILE = "ios20121017_xml/ios20121017_xml-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		35CC534568A399426BA7296B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "ios20121017_xml/ios20121017_xml-Prefix.pch";
+				INFOPLIST_FILE = "ios20121017_xml/ios20121017_xml-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		35CC54E484B7FBCB69296B26 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		35CC5E26091809CA2D9BAE38 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		35CC51D192603233E660CEDC /* Build configuration list for PBXNativeTarget "ios20121017_xml" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				35CC505A9C9DA9502BFC3A89 /* Release */,
+				35CC534568A399426BA7296B /* Debug */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		35CC5F23EC1D5A599295909A /* Build configuration list for PBXProject "ios20121017_xml" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				35CC54E484B7FBCB69296B26 /* Release */,
+				35CC5E26091809CA2D9BAE38 /* Debug */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 35CC57AAE1A2B8CC202EC775 /* Project object */;
+}
