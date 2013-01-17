@@ -1,0 +1,278 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		35CC522F0094EBB57C6ED3A3 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 35CC55EEE755C3BF23CF1F10 /* AppDelegate.m */; };
+		35CC54D5E22136F87368B9A0 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 35CC570E19E4C542B79A917F /* CoreGraphics.framework */; };
+		35CC5832DE17565E3932A26F /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 35CC507C6182CD5A98E9E8FD /* InfoPlist.strings */; };
+		35CC589F357878B9824C6DE8 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 35CC5E7C643AB405615E24CA /* ViewController.m */; };
+		35CC59B6179670A784E5CCDF /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 35CC569F54DD0FC26825F44F /* UIKit.framework */; };
+		35CC5B6D38C2D17B639109BC /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 35CC5DEEC879E0D2BCB0F2FF /* Foundation.framework */; };
+		35CC5B82DA7411A105E970DC /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 35CC5F0CE472CA4971E41019 /* MainStoryboard.storyboard */; };
+		35CC5F3711EF30F3549B41ED /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 35CC559CE11311D906D7C606 /* main.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		35CC5270E1BB8DA26163B772 /* ios20121017_sync_async_network.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ios20121017_sync_async_network.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		35CC5334BA2701CDF800F4C4 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		35CC559CE11311D906D7C606 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		35CC55B63E0C6F3E7456DF17 /* ios20121017_sync_async_network-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "ios20121017_sync_async_network-Prefix.pch"; sourceTree = "<group>"; };
+		35CC55EEE755C3BF23CF1F10 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		35CC569F54DD0FC26825F44F /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		35CC570E19E4C542B79A917F /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		35CC5AB9FECF05118B699B03 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		35CC5D15435806B11CAF9AF9 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
+		35CC5DEEC879E0D2BCB0F2FF /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		35CC5E139F58510514D8EDE5 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		35CC5E7C643AB405615E24CA /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		35CC5FBC489FEAC11B0CB9F4 /* ios20121017_sync_async_network-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.info; path = "ios20121017_sync_async_network-Info.plist"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		35CC5C0F82FA79AB41833483 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				35CC59B6179670A784E5CCDF /* UIKit.framework in Frameworks */,
+				35CC5B6D38C2D17B639109BC /* Foundation.framework in Frameworks */,
+				35CC54D5E22136F87368B9A0 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		35CC571AFAD22995A4031EC4 = {
+			isa = PBXGroup;
+			children = (
+				35CC5D45A4F0F934C55A38E2 /* Products */,
+				35CC5D079D9CF1DA366BD2AE /* Frameworks */,
+				35CC5977156E44CD7E20DDB4 /* ios20121017_sync_async_network */,
+			);
+			sourceTree = "<group>";
+		};
+		35CC58D560F6761B380E132B /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				35CC5FBC489FEAC11B0CB9F4 /* ios20121017_sync_async_network-Info.plist */,
+				35CC507C6182CD5A98E9E8FD /* InfoPlist.strings */,
+				35CC559CE11311D906D7C606 /* main.m */,
+				35CC55B63E0C6F3E7456DF17 /* ios20121017_sync_async_network-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		35CC5977156E44CD7E20DDB4 /* ios20121017_sync_async_network */ = {
+			isa = PBXGroup;
+			children = (
+				35CC58D560F6761B380E132B /* Supporting Files */,
+				35CC5E139F58510514D8EDE5 /* AppDelegate.h */,
+				35CC55EEE755C3BF23CF1F10 /* AppDelegate.m */,
+				35CC5F0CE472CA4971E41019 /* MainStoryboard.storyboard */,
+				35CC5334BA2701CDF800F4C4 /* ViewController.h */,
+				35CC5E7C643AB405615E24CA /* ViewController.m */,
+			);
+			path = ios20121017_sync_async_network;
+			sourceTree = "<group>";
+		};
+		35CC5D079D9CF1DA366BD2AE /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				35CC569F54DD0FC26825F44F /* UIKit.framework */,
+				35CC5DEEC879E0D2BCB0F2FF /* Foundation.framework */,
+				35CC570E19E4C542B79A917F /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		35CC5D45A4F0F934C55A38E2 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				35CC5270E1BB8DA26163B772 /* ios20121017_sync_async_network.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		35CC5A026FE038712C28F048 /* ios20121017_sync_async_network */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 35CC550C5DBDD973C596000E /* Build configuration list for PBXNativeTarget "ios20121017_sync_async_network" */;
+			buildPhases = (
+				35CC5CCD856C84A04A37F4EF /* Sources */,
+				35CC5C0F82FA79AB41833483 /* Frameworks */,
+				35CC541FC31315CC01716894 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = ios20121017_sync_async_network;
+			productName = ios20121017_sync_async_network;
+			productReference = 35CC5270E1BB8DA26163B772 /* ios20121017_sync_async_network.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		35CC5AB6804D9039F232BEA8 /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = 35CC5C6896AB0F803E851570 /* Build configuration list for PBXProject "ios20121017_sync_async_network" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 35CC571AFAD22995A4031EC4;
+			productRefGroup = 35CC5D45A4F0F934C55A38E2 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				35CC5A026FE038712C28F048 /* ios20121017_sync_async_network */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		35CC541FC31315CC01716894 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				35CC5832DE17565E3932A26F /* InfoPlist.strings in Resources */,
+				35CC5B82DA7411A105E970DC /* MainStoryboard.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		35CC5CCD856C84A04A37F4EF /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				35CC5F3711EF30F3549B41ED /* main.m in Sources */,
+				35CC522F0094EBB57C6ED3A3 /* AppDelegate.m in Sources */,
+				35CC589F357878B9824C6DE8 /* ViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		35CC507C6182CD5A98E9E8FD /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				35CC5AB9FECF05118B699B03 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		35CC5F0CE472CA4971E41019 /* MainStoryboard.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				35CC5D15435806B11CAF9AF9 /* en */,
+			);
+			name = MainStoryboard.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		35CC55CB60E8E20473F25F5F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "ios20121017_sync_async_network/ios20121017_sync_async_network-Prefix.pch";
+				INFOPLIST_FILE = "ios20121017_sync_async_network/ios20121017_sync_async_network-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		35CC587E1D4978497809C42F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		35CC5EF59F422D35447D0245 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		35CC5F004A60728392E72D7D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "ios20121017_sync_async_network/ios20121017_sync_async_network-Prefix.pch";
+				INFOPLIST_FILE = "ios20121017_sync_async_network/ios20121017_sync_async_network-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		35CC550C5DBDD973C596000E /* Build configuration list for PBXNativeTarget "ios20121017_sync_async_network" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				35CC5F004A60728392E72D7D /* Release */,
+				35CC55CB60E8E20473F25F5F /* Debug */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		35CC5C6896AB0F803E851570 /* Build configuration list for PBXProject "ios20121017_sync_async_network" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				35CC5EF59F422D35447D0245 /* Release */,
+				35CC587E1D4978497809C42F /* Debug */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 35CC5AB6804D9039F232BEA8 /* Project object */;
+}
