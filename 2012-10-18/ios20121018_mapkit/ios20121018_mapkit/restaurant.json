@@ -1,0 +1,287 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.5762280,
+               "lng" : 126.984330
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "da3cbca8a64b1e5a2e86b969970dea4123955329",
+         "name" : "스타벅스",
+         "reference" : "CnRpAAAAsz4HXR85I6r21JwO-Dw9lvGBLI9IE_WTq0HeWAqgCmHDYP_1WhffV7bc3RdOnelE-xGdEI5vwToE9nmDhpjHRFtJSmMa6Zh8DILqAw2MF4bsnfZ0ZByFdY-05igAiFCvB67Bud56ycBhvlMjuBSZPBIQ6a_zh5ZEbAdqdchX52lWjBoUgI6b8AeO81wnl1E7-C3H89kdD0Q",
+         "types" : [ "cafe", "food", "establishment" ],
+         "vicinity" : "서울특별시 종로구 안국동 164"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.5057660,
+               "lng" : 127.0579630
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "a240d37bca71ea25a214024f4fef667727a51958",
+         "name" : "스타벅스",
+         "reference" : "CnRpAAAAP7-II5LMJ2PZcGoWIBnLX7NhJaDRR5b9W7j8CV4JkUW1cRGej-jBFzv-sUqD5gbn_xS37ydfe7oN83HzAq48eWzFTzEYHQJeQn_vVFqAI5BbeNgeGZjm1q2xNkB3dYSye1lJds1cNvLIMLfGeWFNJxIQgr6jhxh-ZvQwHz4bVmlluxoUGGst29Jd9hxK825Q2qRKAvcgl08",
+         "types" : [ "cafe", "food", "establishment" ],
+         "vicinity" : "서울특별시 강남구 대치동 942-5"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.5241270,
+               "lng" : 126.8762330
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "daddbf387420d0afe5a82576a89673fa026a63f7",
+         "name" : "스타벅스 오목교사거리점",
+         "reference" : "CoQBfwAAAMJXhpSbKHk04gVVogPsIPK0GNAN7C_0RQmPNrIpvbgpywPJr-YcynwCQKRVo4ZTZ2TpHwbQbi_3l2Lc0thfIvhuFbHXWMSZ5ucJZdZrEc_1ABOKtXoCE1PAZ3QNgyA2u6UrOCWz-AgRC74RyaaEAGnlwJh9Sf8nRb8L4zWXNZFgEhAbLql7q3XgK3hihX9KfYoTGhQsFRQODZQC6bBhWrARZQs-mnFXag",
+         "types" : [ "cafe", "food", "establishment" ],
+         "vicinity" : "서울특별시 양천구 목동 404-177 센텍시티1층"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.5641740,
+               "lng" : 126.9845520
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "c69e644c9fd503df246177522787b4de5b518080",
+         "name" : "스타벅스",
+         "reference" : "CnRpAAAABVUwFuB2raZ01dSFkOOCo3T3c7rzhAn1OGfP7dM0DLWKuc_xQOYcb1ePCyweQmAoV5lpR0WR3uRoYa36V93spyJkcOwgc8s2xsL_vMr4lfeg9UvnZnyTgfd5p9Oox8CL4enOMCUN-Sq6cmZaHRfIyhIQC4aqCN4IJi_hi9YXz6y6kBoUnbfexqcfojfRK9LSPIm63SVJN-s",
+         "types" : [ "cafe", "food", "establishment" ],
+         "vicinity" : "서울특별시 중구 명동1가 48-2"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.5196290,
+               "lng" : 126.8896880
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "7ad1b5db1bb4075b6b1ccf39f4484cfb9066b68d",
+         "name" : "스타벅스",
+         "rating" : 4.90,
+         "reference" : "CnRqAAAA6ExQdN0s-qc2dw7Y3ete8RdpnZLbVuu7wyG0vzpo_va9JdmWyiWwHLcikJuH67hBHlfBZZZKiA_oLSKWtKV19st3CkyuxMZNWxLct3ut1b2bVBAjhxdfZ-2XGtCbU9la3RVe__IjOffScKSBXuFeWhIQwUnMSsWHUnRB4uP4qxW5MBoU20j-FK39j-Thwz5frQx4902f9F4",
+         "types" : [ "cafe", "food", "establishment" ],
+         "vicinity" : "서울특별시 영등포구 문래동3가 77-1"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.5585030,
+               "lng" : 126.9753990
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "b03fdcea8b0ed5d67895337045d9174064ad585f",
+         "name" : "스타벅스",
+         "reference" : "CnRqAAAAZxCc4PiMAVZw3b5UOY2xOso_kWhQc3OGwSB1xfYs7Ib1Ae5nimQI99p4H_3Z51dGk-btlWw4jdhmqyvnfwbA3s4bHcjhLC4MFcifq6lhPLu0YAb17teUVuv4c1995PRuF7qBRt4EAevQq4sZEsm34BIQ5-stq6_mXEEtNmez6HCX1xoUSyeISGBK6mbl2NwIi4hJZzvOZS4",
+         "types" : [ "cafe", "food", "establishment" ],
+         "vicinity" : "서울특별시 중구 남대문로5가 120"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.567350,
+               "lng" : 126.9830090
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d19b670932c7b89e9456c486e9a3574bb63bf0a9",
+         "name" : "스타벅스",
+         "reference" : "CnRpAAAAejfW0MyqkVrPeYN2bzpozqq4cSYFdAKxSGvXHOTfSz1dmptnNYdgijhJIUkV9LJC6qUero9ZEufnHfyvUnuP6q-fZTXK9jv9Fh-IE799QaTLnqfnEIOT6YxirXJt_YDbNii-9TGiqHpFKH8S_9dmvBIQ6BR-o3mUOWvVaHR2a_7XhRoUzIcyZe1QVTdUhk4CVTT2zhbNYME",
+         "types" : [ "cafe", "food", "establishment" ],
+         "vicinity" : "서울특별시 중구 남대문로1가 21"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.4913950,
+               "lng" : 126.9234030
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e06af4d84e826cef6ff840edd9ec0837dcf01190",
+         "name" : "스타벅스",
+         "reference" : "CnRqAAAARPpc9iKD9hHXH2dArUgG-kJKK0m7QamuCmv6RHrEoYaqwtsNIOenQDEnSlqZDr5N2JWSsdnxfc9i559FAj9T6VombtLdMJCWrBet9Do84e6B4KqMfPd9wgk5hcrb1JXfrUz5tMTunL9nDQUCH0dC7hIQPWDWrVd_RNZRzn0bEeicgxoU559KhgzzAhRH8k_Ql9XpDL1W4i0",
+         "types" : [ "cafe", "food", "establishment" ],
+         "vicinity" : "서울특별시 동작구 신대방동 395-66"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.4810930,
+               "lng" : 127.013480
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "328be4924f459c9243b5fb196a70856f11ec7832",
+         "name" : "스타벅스",
+         "reference" : "CnRqAAAAim9F3ATne1ajoGId6w5tqmBzMs-f3PNTNkZdfA0KhM80qGhdrqYPzTKzv_D2WQeAE3q001n9TV-JdOlAopnOf6rZKgVIsq9MyZV1H8rZadaGeVpkugRBFqkQWB2bo84HF7p5KpD3j8Orm8RN8686vxIQ99vm78J-Oo-eO9-zwmjRNhoUMzw2ubUrJPgJ4J0-_nnUfi3uJi4",
+         "types" : [ "cafe", "food", "establishment" ],
+         "vicinity" : "서울특별시 서초구 서초동 1451-95"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.5076530,
+               "lng" : 127.0627280
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "a164bdd1d896ae77bd0c3e664645985280042e56",
+         "name" : "스타벅스",
+         "reference" : "CnRqAAAA4_oz3xt2wrFoFzAILIW6Wx9EyIpmZ8FWm4tiscB2Lputu60HZYCbvWa4-G0V5OqcxE-mF8aQyE2DvbrDB4Duu8JeHRN9K9ue7Y6gPWL3wqsZoLQS4PZ63wCQw1gbbF0naOVNAVlqWHGVkbZQZrVW9RIQUAyVxr2NZn3BwVk_TEAAJBoUeshiXzr4g7mUDO6TTcMqd85ZFpk",
+         "types" : [ "cafe", "food", "establishment" ],
+         "vicinity" : "서울특별시 강남구 대치동 946-18"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.4797390,
+               "lng" : 126.9313930
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "73b9a5c547444a3b24f35368d868e2279c52b874",
+         "name" : "스타벅스",
+         "reference" : "CnRqAAAAQo-pfPwhmy3eWFENS-k8GI7aEYvLnrEBCidUmFe4aEWlN_EGWRJEYn5mvPj6-JDJujB5Glhd0yvdxV5H-YMslGeXfdH273-R9ZIk0Y84ZI_JjBlSBQlaAHD81iZ76tcgiyszZP3zXOZE9ONvrQ5oSxIQP0ymzOwKoKMvpy_luPVunxoU64bz_7f45WSTyVUsX_c4s83o57I",
+         "types" : [ "cafe", "food", "establishment" ],
+         "vicinity" : "서울 관악구 서원[신림본동]동 1641-2"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.5814940,
+               "lng" : 127.0023220
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "91764582be61e2a2ae5765e6e38368ace8bf3c12",
+         "name" : "스타벅스",
+         "reference" : "CnRpAAAAUxXjyvGFrBtntQ_t8gXUggx3_xNjEJ-_QaHQ9J87DTJD7Y8509C2Cr8AAu-caIu15OniAhfUsKKtU4eiYNSNRZ10CPBgX0XIaB1PlZefoO7YZxwxkVVd65QF5uv3eD1nPbV3xTlryeoE-FwUQJF5QBIQA-ZY6c-dgyxDLWo8mHDaJRoUagOYazdwjXegSei4nO5CTyE2zBk",
+         "types" : [ "cafe", "food", "establishment" ],
+         "vicinity" : "서울특별시 종로구 동숭동 1-115"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.4715420,
+               "lng" : 126.702360
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "60bff6dfa6e18181cfcaf5552954a750fefc9f13",
+         "name" : "스타벅스 동암역점",
+         "reference" : "CoQBdgAAAAedgHY-OGdiPh_PPAEvNDMZbFLsKsHfdESUNXEESwKEtFdaHFJAh9vg1lcVIa3Q-0LlgVWXpLhbn2AGNML3C6lBKEmKwcF490X1EBIVCzZBpGn6S7D0aUbHDlU42WFWOKfKkjW3EQX7VEUJUBxF-xYBYVYE4PFviblD5b04oPs8EhALgmwzBk3wniD5LNW5gJAEGhTytz6F0fXIqEt3HVTI73mLBaK4Fg",
+         "types" : [ "cafe", "food", "establishment" ],
+         "vicinity" : "인천광역시 부평구 십정동 402-56"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.5442010,
+               "lng" : 126.9719250
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "5dd1d5d66eb24bb7ad43b99eff1a3b24a5899a63",
+         "name" : "스타벅스",
+         "reference" : "CnRqAAAAc34FcNWcjzrGc9PTpPJ8k0CMq_kFhB4xqMR8TVq1WmFhT1Zcx3VEc8jiR3uc6tIC-pvXBCyafJH8IK-yIlY6v5O0C6Ya_mTo4n4rFHS2t0Iwx1h9qTjthtuaPTX0CDLqe-RBj7I-GceFsoUMMIqaIhIQwLhPFLKe19nKt70PlFVzsBoUoom3VVAkxtDfg2PqL7AdJPgtBh8",
+         "types" : [ "cafe", "food", "establishment" ],
+         "vicinity" : "서울특별시 용산구 갈월동 69-5"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.4914390,
+               "lng" : 126.7221130
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "30b35f1460b1aa127646a48c963383b9551cdfa3",
+         "name" : "스타벅스 부평역점",
+         "reference" : "CoQBdgAAAK8r9M52i9iDGAMahgAmhp8JB59Kl8FSfQXdV12ayNECBne0DgQXRTeYB6g0NlzCQ0F6iT2J1yT58HZvUnzwVpzp17pAjwGjVcBWQL25lAzQk9E87SSuzoadMjpjOtiWq9hIa_wIbe0lI4iX846JfQM5-hug7W4KgXDc9JzVZJL4EhAOENDFWKyPLqwB-oCpi-kLGhS0sO1Mh9_zvFEbf_-sYfkRQNNgWg",
+         "types" : [ "cafe", "food", "establishment" ],
+         "vicinity" : "인천광역시 부평구 부평1동 549-78"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.5042630,
+               "lng" : 127.1061080
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e84a031ce55cdfb500595e5d949d99c5aa71162e",
+         "name" : "스타벅스",
+         "reference" : "CnRpAAAA-q5-8ltmV4Tdz33j9sOn0SGyv9SkGziyqwSIhk4XzHM3Dwf8AIO0HRjdqNecA9UVOCEGYud3fgv35qW-M2rWhyC6z3tGpWypTwNZJQQENw1X6OhfBNMdV_K5eQrF6w2hDicl3KlI9j4JZCXHuFAZNhIQMs6sNyETubbV_WIbnGesIBoUF6rP9V8BjfwxK_D_nEj_39DqDgY",
+         "types" : [ "cafe", "food", "establishment" ],
+         "vicinity" : "서울특별시 송파구 석촌동 286-9"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.5293140,
+               "lng" : 126.8751260
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "2339abfee035358c54316567e648dcfde3d65b87",
+         "name" : "스타벅스",
+         "reference" : "CnRqAAAADRPbxJNogdJe9u6X6tS25LHUd11BJFpDahkzD8u0_rXo-MpDbVSdssURfjh1FI302sBRwVNVHe2GxZDT2fvZjZYxRwHhE4NN8_HjkCY8guZfhdP-2R-RAtDy7m7xt9YMb9i72873Y3GsodC9PxkG1RIQzRoo892otT6jJzFhvRu_6RoUQ4ceaNklaeaoUhW_2Mq_JQpGCtM",
+         "types" : [ "cafe", "food", "establishment" ],
+         "vicinity" : "서울특별시 양천구 목동 917"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.5928810,
+               "lng" : 127.0528090
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "4191ab71d59a82243526a0d69d88ad9dd4028418",
+         "name" : "스타벅스",
+         "reference" : "CnRqAAAAm6qI8Isw5ZgOHKopYhN2RKNpsmdHUe9BYWvsMUdpHp7c-iBQF5Dsv_JfxzVFM__YvThBVYlmpnu1mcwtNX8kToJ4tK9JlgASmEVtkBOe8V3dSHz_v7xALgPc5AbRmVpqzQrad5KroqGsGHLc0qZSGxIQUd2dUpf8rYHdA8UY_D5V6hoUzFH94VIGnEnMZ95kOyKCcIEpiQU",
+         "types" : [ "cafe", "food", "establishment" ],
+         "vicinity" : "서울특별시 동대문구 회기동 16-41"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.3386290,
+               "lng" : 127.1093440
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "62929977dbde38b7822f4e591111a7e85d8c6ce8",
+         "name" : "스타벅스",
+         "reference" : "CnRpAAAAi4ttZNfNVQdHz3i3lLrbnYuGB-lxb7qzi9Mwp4xmvfQ6lp18Ha6rDsH8RXyJdsQgnAZ7jtd2WUkgxWBq-S3S0y0HsfwDhqS13ZAxvdVKTD0CXjfnzNoBfZy76L4EjHZw3ysZbhgoRvH2dZSu5f7L5xIQYOAqzFnV-BjAWSMjFSI3YxoURoDCtA7doKAHkZnRbFw4kxuMbRw",
+         "types" : [ "cafe", "food", "establishment" ],
+         "vicinity" : "성남시 분당구 구미동 185-4"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.569050,
+               "lng" : 126.9859850
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "7ea3a511b7978dafe27041dc540f51067d4f9555",
+         "name" : "스타벅스",
+         "reference" : "CnRqAAAAWQTIeHNuZsbsn4Wze5GQUMztZwbEPvELEwzVyfjwcvn8H-_JbL1PgPF0f4T5DkN1Ot8DkVFQqjCgJOzIFDrTPmV3-7OLzXQP_U6my9mgShEF5J-VOcBA4t9rdahj9hr5Lp4nRXqQoqtaPGHEkmRN1xIQAXM0IPIrmtshWz6dYzpJdhoUhmxplUb7N81BzGjaW-QpSEowXq8",
+         "types" : [ "cafe", "food", "establishment" ],
+         "vicinity" : "서울특별시 종로구 관철동 12-15"
+      }
+   ],
+   "status" : "OK"
+}
